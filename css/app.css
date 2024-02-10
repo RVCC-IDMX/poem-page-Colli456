@@ -84,7 +84,7 @@ body {
   background-color: black;
   font-size: large;
   line-height: 1.7;
-  text-align: center;
+  /*text-align: center;*/
   padding: 1Rem ;
   max-width: 80%;
   margin-left: auto;
